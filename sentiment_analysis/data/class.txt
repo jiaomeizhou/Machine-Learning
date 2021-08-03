@@ -1,0 +1,6 @@
+angry         0
+happy         1
+neural         2
+surprise         3
+sad         4
+fear         5
